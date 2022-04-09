@@ -1,0 +1,645 @@
+Solutie (a*): 
+0)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+1)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\ [l] 
+###################
+2)
+/c\ /k\ [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+3)
+        /m\         
+/c\ /k\ [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h]         
+###################
+Cost: 4
+Lungime: 4
+================
+Timpul de gasire a solutiei: 0 milisec
+Numarul maxim de noduri existente la un moment dat in memorie: 30
+Numar noduri calculate: 35
+
+Solutie (a*): 
+0)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+1)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\ [l] 
+###################
+2)
+/c\ /k\ [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+3)
+/c\ /k\ [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h]     /m\ 
+###################
+4)
+        /m\         
+/c\ /k\ [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h]         
+###################
+Cost: 5
+Lungime: 5
+================
+Timpul de gasire a solutiei: 15 milisec
+Numarul maxim de noduri existente la un moment dat in memorie: 39
+Numar noduri calculate: 46
+
+Solutie (a*): 
+0)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+1)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\ [l] 
+###################
+2)
+/c\ /k\ [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+3)
+        /k\         
+/c\     [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+4)
+        /k\         
+/c\ /m\ [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h]         
+###################
+Cost: 5
+Lungime: 5
+================
+Timpul de gasire a solutiei: 31 milisec
+Numarul maxim de noduri existente la un moment dat in memorie: 46
+Numar noduri calculate: 55
+
+Solutie (a*): 
+0)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+1)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\ [l] 
+###################
+2)
+/c\ /k\ [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+3)
+        /c\         
+    /k\ [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+4)
+        /c\         
+/m\ /k\ [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h]         
+###################
+Cost: 5
+Lungime: 5
+================
+Timpul de gasire a solutiei: 47 milisec
+Numarul maxim de noduri existente la un moment dat in memorie: 54
+Numar noduri calculate: 65
+
+Solutie (a*): 
+0)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+1)
+    /k\ /c\         
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+2)
+    /k\ /c\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\ [l] 
+###################
+3)
+[l] /k\ /c\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+4)
+/m\                 
+[l] /k\ /c\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h]         
+###################
+Cost: 5
+Lungime: 5
+================
+Timpul de gasire a solutiei: 62 milisec
+Numarul maxim de noduri existente la un moment dat in memorie: 106
+Numar noduri calculate: 128
+
+Solutie (a*): 
+0)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+1)
+    /k\ /c\         
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+2)
+    /k\ /c\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\ [l] 
+###################
+3)
+[l] /k\ /c\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+4)
+[l] /k\ /c\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h]     /m\ 
+###################
+5)
+/m\                 
+[l] /k\ /c\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h]         
+###################
+Cost: 6
+Lungime: 6
+================
+Timpul de gasire a solutiei: 78 milisec
+Numarul maxim de noduri existente la un moment dat in memorie: 115
+Numar noduri calculate: 139
+
+Solutie (a*): 
+0)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+1)
+    /k\ /c\         
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+2)
+    /k\ /c\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\ [l] 
+###################
+3)
+[l] /k\ /c\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+4)
+/c\                 
+[l] /k\             
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+5)
+/c\                 
+[l] /k\ /m\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h]         
+###################
+Cost: 6
+Lungime: 6
+================
+Timpul de gasire a solutiei: 94 milisec
+Numarul maxim de noduri existente la un moment dat in memorie: 122
+Numar noduri calculate: 148
+
+Solutie (a*): 
+0)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+1)
+    /k\ /c\         
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+2)
+    /k\ /c\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\ [l] 
+###################
+3)
+[l] /k\ /c\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+4)
+/k\                 
+[l]     /c\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+5)
+/k\                 
+[l] /m\ /c\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h]         
+###################
+Cost: 6
+Lungime: 6
+================
+Timpul de gasire a solutiei: 109 milisec
+Numarul maxim de noduri existente la un moment dat in memorie: 130
+Numar noduri calculate: 158
+
+Solutie (a*): 
+0)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+1)
+/c\     /k\         
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+2)
+/c\     /k\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\ [l] 
+###################
+3)
+/c\ [l] /k\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+4)
+    /m\             
+/c\ [l] /k\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h]         
+###################
+Cost: 5
+Lungime: 5
+================
+Timpul de gasire a solutiei: 125 milisec
+Numarul maxim de noduri existente la un moment dat in memorie: 168
+Numar noduri calculate: 204
+
+Solutie (a*): 
+0)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+1)
+/c\     /k\         
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+2)
+/c\     /k\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\ [l] 
+###################
+3)
+/c\ [l] /k\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+4)
+/c\ [l] /k\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h]     /m\ 
+###################
+5)
+    /m\             
+/c\ [l] /k\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h]         
+###################
+Cost: 6
+Lungime: 6
+================
+Timpul de gasire a solutiei: 140 milisec
+Numarul maxim de noduri existente la un moment dat in memorie: 177
+Numar noduri calculate: 215
+
+Solutie (a*): 
+0)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+1)
+/c\     /k\         
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+2)
+/c\     /k\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\ [l] 
+###################
+3)
+/c\ [l] /k\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+4)
+    /k\             
+/c\ [l]             
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+5)
+    /k\             
+/c\ [l] /m\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h]         
+###################
+Cost: 6
+Lungime: 6
+================
+Timpul de gasire a solutiei: 156 milisec
+Numarul maxim de noduri existente la un moment dat in memorie: 184
+Numar noduri calculate: 224
+
+Solutie (a*): 
+0)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+1)
+/c\     /k\         
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+2)
+/c\     /k\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\ [l] 
+###################
+3)
+/c\ [l] /k\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+4)
+    /c\             
+    [l] /k\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+5)
+    /c\             
+/m\ [l] /k\         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h]         
+###################
+Cost: 6
+Lungime: 6
+================
+Timpul de gasire a solutiei: 172 milisec
+Numarul maxim de noduri existente la un moment dat in memorie: 192
+Numar noduri calculate: 234
+
+Solutie (a*): 
+0)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+1)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\ [l] 
+###################
+2)
+/c\ /k\ [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+3)
+        /c\         
+    /k\ [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+4)
+        /c\         
+    /k\ [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h]     /m\ 
+###################
+5)
+        /c\         
+/m\ /k\ [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h]         
+###################
+Cost: 6
+Lungime: 6
+================
+Timpul de gasire a solutiei: 187 milisec
+Numarul maxim de noduri existente la un moment dat in memorie: 219
+Numar noduri calculate: 267
+
+Solutie (a*): 
+0)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+1)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\ [l] 
+###################
+2)
+/c\ /k\ [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+3)
+        /c\         
+    /k\ [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+4)
+        /c\         
+/k\     [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+5)
+        /c\         
+/k\ /m\ [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h]         
+###################
+Cost: 6
+Lungime: 6
+================
+Timpul de gasire a solutiei: 203 milisec
+Numarul maxim de noduri existente la un moment dat in memorie: 226
+Numar noduri calculate: 276
+
+Solutie (a*): 
+0)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+1)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\ [l] 
+###################
+2)
+/c\ /k\ [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+3)
+        /k\         
+/c\     [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+4)
+        /k\         
+/c\     [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h]     /m\ 
+###################
+5)
+        /k\         
+/c\ /m\ [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h]         
+###################
+Cost: 6
+Lungime: 6
+================
+Timpul de gasire a solutiei: 219 milisec
+Numarul maxim de noduri existente la un moment dat in memorie: 234
+Numar noduri calculate: 286
+

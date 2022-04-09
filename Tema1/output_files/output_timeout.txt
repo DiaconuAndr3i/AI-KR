@@ -1,0 +1,33 @@
+Solutie (a*opt): 
+0)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]     /m\ 
+[a] [i] [h]     [l] 
+###################
+1)
+/c\ /k\             
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\ [l] 
+###################
+2)
+/c\ /k\ [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h] /m\     
+###################
+3)
+        /m\         
+/c\ /k\ [l]         
+[g] (f) [j]         
+[b] (e) [d]         
+[a] [i] [h]         
+###################
+Cost: 4
+Lungime: 4
+================
+Timpul de gasire a solutiei: 16 milisec
+Numarul maxim de noduri existente la un moment dat in memorie: 32
+Numar noduri calculate: 47
+

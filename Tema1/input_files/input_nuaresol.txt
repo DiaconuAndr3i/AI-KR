@@ -1,0 +1,4 @@
+2
+cub(a),cub(b),piramida(c)
+sfera(d),piramida(e)
+cub(f),cub(g)

@@ -1,0 +1,28 @@
+Solutie (ucs): 
+0)
+/c\ [k]                     
+[g] (f) [j]                 
+[b] (e) [d] [l] [k]     /m\ 
+[a] [i] [h] (z) [h]     [l] 
+###########################
+1)
+    /m\                     
+/c\ [k]                     
+[g] (f) [j]                 
+[b] (e) [d] [l] [k]         
+[a] [i] [h] (z) [h]     [l] 
+###########################
+2)
+    /m\                     
+/c\ [k] [l]                 
+[g] (f) [j]                 
+[b] (e) [d] [l] [k]         
+[a] [i] [h] (z) [h]         
+###########################
+Cost: 3
+Lungime: 3
+================
+Timpul de gasire a solutiei: 1266 milisec
+Numarul maxim de noduri existente la un moment dat in memorie: 3108
+Numar noduri calculate: 3276
+
